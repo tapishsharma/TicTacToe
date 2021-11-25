@@ -1,0 +1,36 @@
+td{
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  /*padding: 100px;*/
+  border: 5px solid black;
+  font-size: 100px
+}
+.jumbotron{
+  background-color: #b5e7a0;
+  align-items: center;
+}
+#up{
+  padding: 50px;
+  margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+
+
+}
+#btn{
+  padding: 10px;
+  margin: auto;
+padding-left: 250px;
+    width: 50%;
+}
+
+
+#r{
+  background-color: #c1946a;
+  margin-left: 8PX;
+  text-align: center;
+  border-radius: 10px;
+
+}
